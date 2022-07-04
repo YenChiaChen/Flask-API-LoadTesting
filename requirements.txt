@@ -1,0 +1,9 @@
+psutil
+mock 
+pytest 
+flake8 
+tox
+flask
+numpy
+memory-profiler
+cpu_load_generator
